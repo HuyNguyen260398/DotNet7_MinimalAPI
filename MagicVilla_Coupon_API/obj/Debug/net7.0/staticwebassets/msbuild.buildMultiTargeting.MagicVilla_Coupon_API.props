@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MagicVilla_Coupon_API.props" />
+</Project>
